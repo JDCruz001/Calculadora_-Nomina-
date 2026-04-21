@@ -3,7 +3,7 @@ import tkinter as tk
 from tkinter import ttk,messagebox
 from datetime import datetime
 from abc import ABC, abstractmethod
-
+# Severo codigo
 
 class Usuario():
     def __init__(self, nombre, id, genero, salario_dia, cargo, dias, fecha):
